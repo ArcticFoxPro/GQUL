@@ -39,6 +39,6 @@ with the download link of the update installation package.
 ## Files
 
 - `core.php`: Core functionalities.
-- `curl.php`: CURL operations.
+- `curl.php`: cURL operations.
 - `send.php`: Main script to fetch the update link.
 - `util.php`: Utility functions.
